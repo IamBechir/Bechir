@@ -1,5 +1,5 @@
 # Bechir/README.md
-Hi,how qre you?👋
+Hi,how are you?👋
 # 💫 About Me:
 <br>Student at Institut Supérieur d'Informatique et des Technologies de Communication<br>
 <br> Internet of Things (IoT) student<br>
