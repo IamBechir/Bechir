@@ -2,7 +2,7 @@
 Hi,how are you?👋
 # 💫 About Me:
 <br>Student at Institut Supérieur d'Informatique et des Technologies de Communication<br>
-<br> 👩🏾‍💻 Internet of Things (IoT) student <br> 😎 I enjoy gaining knowledge and experience 
+<br> 👩🏻‍💻 Internet of Things (IoT) student <br> 😎 I enjoy gaining knowledge and experience 
 
 I'm currently learning Python <br>I'm currently learning Java<br><br> 
 
